@@ -143,11 +143,7 @@ El rol asociado (inline policy) otorga permisos mínimos para:
 
 ## 📁 Repositorio  
 **GitHub:** [https://github.com/alexmeyerm/EduBotAWS](https://github.com/alexmeyerm/EduBotAWS)  
-**Autor:** Equipo de Desarrollo IA  
 **Fecha:** Octubre 2025  
 
 ---
 
-## 🏆 Créditos  
-Desarrollado con ❤️ sobre la infraestructura **AWS Serverless**  
-por el equipo de innovación educativa y data science.
