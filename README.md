@@ -133,14 +133,6 @@ El rol asociado (inline policy) otorga permisos mínimos para:
 
 ---
 
-## 📈 Oportunidades de Mejora  
-- Integrar **Amazon Comprehend** para analizar sentimientos y mejorar respuestas.  
-- Añadir **GSI** por `celContacto` en DynamoDB para historial.  
-- Migrar a arquitectura **PWA**.  
-- Pipeline CI/CD con **AWS CodePipeline / CDK**.
-
----
-
 ## 📁 Repositorio  
 **GitHub:** [https://github.com/alexmeyerm/EduBotAWS](https://github.com/alexmeyerm/EduBotAWS)  
 **Fecha:** Octubre 2025  
