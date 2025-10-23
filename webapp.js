@@ -4,7 +4,7 @@
 
 // === CONFIG AWS ===
 const REGION = "us-east-1";
-const IDENTITY_POOL_ID = "us-east-1:b3975441-68a0-459a-9710-83f35dba2d6f";
+const IDENTITY_POOL_ID = "xxxxxxxxxxxxxxxxxxx";
 const BOT_ID = "HHZJB5PJKE";
 const BOT_ALIAS_ID = "YMAJBXYUFM";
 const LOCALE_ID = "es_419";
